@@ -1,0 +1,42 @@
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe.config
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\IronXL.dll
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\IronXL.xml
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csprojAssemblyReference.cache
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Form1.resources
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Properties.Resources.resources
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.GenerateResource.cache
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CopyComplete
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\source\repos\YapaySinirAglarıOdevi\bin\Debug\dataSet.xls
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\dataSet.xls
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe.config
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\IronXL.xml
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Form1.resources
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Properties.Resources.resources
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.GenerateResource.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CopyComplete
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\dataSet.xlsx
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Form1.resources
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.Properties.Resources.resources
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.GenerateResource.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\dataSet.xlsx
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\dataSet.xls
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe.config
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.exe
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\YapaySinirAglarıOdevi.pdb
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\bin\Debug\IronXL.xml
+C:\Users\Omer\Desktop\385907_AKKAYA\385907_AKKAYA\385907_AKKAYA\Kaynak kod\YapaySinirAglarıOdevi\obj\Debug\YapaySinirAglarıOdevi.csproj.CopyComplete
